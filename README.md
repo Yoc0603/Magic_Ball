@@ -29,13 +29,13 @@
 <img src="screenshots/splash.png" width="250">
 
 ### 🧙‍♀️ App Icon
-<img src="screenshots/app-icon.png" width="100">
+<img src="screenshots/app-icon.png" width="200">
 
 ### 📲 App Screens
 
-| Ask a Question | YES | ASK AGAIN LATER |
-|----------------|-----|-----------------|
-| <img src="screenshots/screen1.png" width="200"> | <img src="screenshots/screen2.png" width="200"> | <img src="screenshots/screen3.png" width="200"> |
+| Ask a Question | YES | ASK AGAIN LATER | No|
+|----------------|-----|-----------------|---|
+| <img src="screenshots/screen4.png" width="200"> | <img src="screenshots/screen2.png" width="200"> | <img src="screenshots/screen3.png" width="200"> | <img src="screenshots/screen3.png" width="200"> |
 
 ---
 

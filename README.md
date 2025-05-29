@@ -29,7 +29,7 @@
 <img src="screenshots/splash.png" width="250">
 
 ### 🧙‍♀️ App Icon
-<img src="screenshots/app-icon.png" width="200">
+<img src="screenshots/app-icon.png" width="250">
 
 ### 📲 App Screens
 

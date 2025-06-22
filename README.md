@@ -45,7 +45,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Magic_Ball.git
+   git clone https://github.com/Yoc0603/Magic_Ball.git
 
 
 👨‍💻 Author
